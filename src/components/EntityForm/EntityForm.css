@@ -1,0 +1,16 @@
+.entity-form {
+  max-height: 600px;
+  overflow: auto;
+}
+
+.entity-form::-webkit-scrollbar {
+  width: 5px;
+  box-sizing: border-box;
+}
+
+.entity-form::-webkit-scrollbar-thumb {
+  box-shadow: -5px 0px 0px 0px #a9a9a9 inset;
+  -webkit-box-shadow: -5px 0px 0px 0px #a9a9a9 inset;
+  -moz-box-shadow: -5px 0px 0px 0px #a9a9a9 inset;
+  border: 1px solid transparent;
+}
