@@ -1,6 +1,10 @@
 # XML Schema parser
 
-This tool is a test prototype for xml schema parser
+This tool is a React-based prototype for xml schema parser
+
+# Demo
+
+You can try this tool [here](https://losferwords.github.io/xml-parser)
 
 ## Available Scripts
 
